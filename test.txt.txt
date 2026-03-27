@@ -1,1 +1,2 @@
-tdc
+day là file week1.txt
+thuoc branch: week1 và main

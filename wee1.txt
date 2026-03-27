@@ -1,1 +1,3 @@
-rtsykgl
+day la file week1.txt
+thuoc branch: week1
+12341234
